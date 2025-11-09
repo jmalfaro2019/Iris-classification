@@ -87,13 +87,14 @@ iris-classification/
 git clone https://github.com/jmalfaro2019/iris-classification.git
 cd iris-classification
 ```
+
 # Instalar dependencias
 ```
-pip install -r requirements.txt
+pip install -r code/requirements.txt
 ```
-# Ejecutar análisis completo
+# Ejecutar el notebook
 ```
-python code/iris_analysis.py
+jupyter notebook notebooks/iris_analysis.ipynb
 ```
 
 ## 📈 Visualizaciones
