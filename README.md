@@ -69,13 +69,12 @@ El dataset Iris contiene 3 clases de 50 instancias cada una, donde cada clase se
 ## 📁 Estructura del Proyecto
 ```
 iris-classification/
-├── code/
-│ ├── iris_analysis.py # Análisis principal
-│ ├── model_comparison.py # Comparación de modelos
-│ └── visualization.py # Funciones de visualización
+├── notebooks/
+│ ├── requirements.txt
+│ ├── Supervised_classification_TP1_template.ipynb
+│ └── iris.csv
 ├── docs/
 │ └── TP1_pdf.pdf # Reporte original
-├── images/ # Visualizaciones generadas
 ├── requirements.txt
 ├── LICENSE
 └── README.md
@@ -115,13 +114,13 @@ jupyter notebook notebooks/iris_analysis.ipynb
 
 ---
 
-## 🌐 Demo en Vivo
-🔗 Ver Proyecto en [**GitHub Pages**](https://jmalfaro2019.github.io/Iris-classification/)
+## 🌐 Web
+🔗 **[Ver Proyecto en GitHub Pages](https://jmalfaro2019.github.io/iris-classification/)**
 
 ---
 
 ## 📄 Reporte Completo
-📋 Descargar **Reporte PDF**
+📋 **[Descargar Reporte PDF](docs/TP1_pdf.pdf)**
 
 ---
 
