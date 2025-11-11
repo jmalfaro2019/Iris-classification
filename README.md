@@ -125,7 +125,7 @@ jupyter notebook notebooks/iris_analysis.ipynb
 ---
 
 ## 👨‍💻 Author
-**Jose Miguel Alfaro Castillo** — [GitHub]((https://github.com/jmalfaro2019) — [LinkedIn](https://www.linkedin.com/in/jose-alfaro-334327291)
+**Jose Miguel Alfaro Castillo** — [GitHub](https://github.com/jmalfaro2019) — [LinkedIn](https://www.linkedin.com/in/jose-alfaro-334327291)
 
 ---
 
